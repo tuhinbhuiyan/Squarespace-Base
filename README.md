@@ -32,3 +32,8 @@ Developer Center
 ----------------
 
 Visit SQ [Developer Center](http://developers.squarespace.com/ "Developer Center") for more information.
+
+---------------------------------------------------------------------------------------------------------------------
+
+Project cross-browser compatibility supported by [BrowserStack](https://browserstack.com)       
+![browserstack](https://assets-github.s3.amazonaws.com/repo/progcode/img/browserstack-logo-footer.png)
