@@ -1,0 +1,3 @@
+{.repeated section items}
+<img {@|image-meta} />
+{.end}
